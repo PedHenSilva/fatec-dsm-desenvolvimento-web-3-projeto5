@@ -1,0 +1,13 @@
+{
+  "name": "260923_npm_media",
+  "version": "1.0.0",
+  "description": "Sistema de cálculo de média de notas - FATEC",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
